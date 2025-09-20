@@ -24,3 +24,8 @@
 
 
 
+
+## Kế hoạch bổ sung
+- Học Docker cơ bản
+- Nghiên cứu CI/CD
+- Tìm hiểu về React
