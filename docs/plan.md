@@ -10,11 +10,3 @@
 8. Luyện tập với GitHub Actions
 9. Cải thiện kỹ năng teamwork
 10. Chuẩn bị kiểm tra cuối tuần
-
----
-
-## Kế hoạch bổ sung
-
-- Học Docker cơ bản
-- Nghiên cứu CI/CD
-- Tìm hiểu về React
