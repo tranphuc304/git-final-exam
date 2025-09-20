@@ -1,1 +1,15 @@
-Giới thiệu cá nhân:\nTôi là Dương Trần Phúc, sinh viên năm 4 ngành CNTT.\nTôi yêu thích công nghệ và lập trình.\nTôi thích chia sẻ kiến thức và làm việc nhóm.\nTôi đặt mục tiêu trở thành lập trình viên fullstack.\n\nSở thích:\n- Đọc sách công nghệ\n- Chơi guitar\n- Chơi cầu lông\n\nKỹ năng:\n- Lập trình Python\n- Sử dụng Git\n- Thiết kế web cơ bản
+Giới thiệu cá nhân:
+Tôi là Dương Trần Phúc, sinh viên năm 4 ngành CNTT.
+Tôi yêu thích công nghệ và lập trình.
+Tôi thích chia sẻ kiến thức và làm việc nhóm.
+Tôi đặt mục tiêu trở thành lập trình viên fullstack.
+
+Sở thích:
+- Đọc sách công nghệ
+- Chơi guitar
+- Chơi cầu lông 
+
+Kỹ năng:
+- Lập trình Python
+- Sử dụng Git
+- Thiết kế web cơ bản
