@@ -1,3 +1,5 @@
-##- Git giúp quản lý phiên bản.
+- Git là một hệ thống phân tán.
+- Git được dùng rộng rãi trong dự án phần mềm.
+- Git giúp quản lý phiên bản.
 - Git hỗ trợ làm việc nhóm.
 - Git lưu lại lịch sử thay đổi.
