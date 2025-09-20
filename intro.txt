@@ -13,3 +13,11 @@ Kỹ năng:
 - Lập trình Python
 - Sử dụng Git
 - Thiết kế web cơ bản
+
+Kế hoạch học tập:
+- Hoàn thành khóa học Git trong tháng này
+- Nâng cao kỹ năng Python
+- Học thêm về cơ sở dữ liệu và web
+- Tham gia các dự án nhóm
+- Chuẩn bị chứng chỉ IT quốc tế
+
